@@ -4,4 +4,4 @@
 - Typescript
 - Kakaomap Api
 
-last update - 20. 1. 13
+last update - 20. 1. 14
