@@ -59,7 +59,7 @@ function App() {
     };
     let markerPosition = new window.kakao.maps.LatLng(
       placeInfo.lat,
-      placeInfo.lng,
+      placeInfo.lng
     );
 
     let map = new window.kakao.maps.Map(container, options);
